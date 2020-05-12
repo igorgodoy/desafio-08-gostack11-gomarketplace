@@ -1,0 +1,4 @@
+#Fri May 08 21:46:11 BRT 2020
+base.0=/var/desafio-08-gostack11-gomarketplace/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
